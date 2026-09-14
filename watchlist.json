@@ -1,0 +1,32 @@
+{
+  "defaults": {
+    "stop_loss_pct": -7,
+    "take_profit_pct": 15
+  },
+  "alerts": {
+    "change_pct": 5.0,
+    "volume_ratio": 2.0,
+    "flow_krw": 5000000000,
+    "quiet_hours": []
+  },
+  "stocks": [
+    {
+      "code": "005930",
+      "market": "KR",
+      "name": "삼성전자",
+      "avg_price": null
+    },
+    {
+      "code": "000660",
+      "market": "KR",
+      "name": "SK하이닉스",
+      "avg_price": null
+    },
+    {
+      "code": "NVDA",
+      "market": "US",
+      "name": "엔비디아",
+      "avg_price": null
+    }
+  ]
+}
