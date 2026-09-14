@@ -1,0 +1,4 @@
+requests>=2.32
+yfinance>=0.2.50
+pykrx>=1.0.45
+PyNaCl>=1.5
