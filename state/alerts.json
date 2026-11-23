@@ -1,4 +1,7 @@
 {
- "date": "2026-11-23",
- "fired": []
+ "date": "2026-11-24",
+ "fired": [
+  "NVDA:surge:up:25",
+  "NVDA:volume:2"
+ ]
 }
